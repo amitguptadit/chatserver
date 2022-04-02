@@ -1,2 +1,2 @@
-# chatserver
+# Chatserver
 Chat Server using go language
