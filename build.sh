@@ -1,3 +1,11 @@
+
+
+# Using Docker
+#!/usr/bin/env/ bash
+#docker build . -t Chatserver --no-cache
+
+# Below are the manual steps for running the chat server
+
 # Chatserver
 Chat Server using go language
 
@@ -15,3 +23,5 @@ $ curl --header "Content-Type: application/json" --request POST --data '{"from":
 
 # CURL GET REQUEST:
 $ curl --header "Content-Type: application/json" --request GET http://localhost:8000/
+
+
